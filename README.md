@@ -3,18 +3,18 @@
 <div align="center">
 </div>
 
-Projet de groupe (6 personnes) bénévole pour la Croix-Rouge Jeunesse de Belgique remporté lors du hackaton "Hack in the Woods" organisé par Microsoft.
+Projet de groupe (6 personnes) bénévole pour la Croix-Rouge Jeunesse de Belgique.
+Celui-ci a été remporté lors du hackaton "Hack in the Woods" et a été organisé par Microsoft.
 Le projet est développé sur WordPress.
 
 ### Description
 
-J'étais en charge des formulaires d'inscription. Pour cela j'ai utilisé le plugIn: RegistrationMagic. J'ai ensuite utilisé du Css pour le style mais également du JS pour permettre une meilleure fluidité lors du choix des formulaires.
+J'étais en charge des formulaires d'inscription. Pour cela j'ai utilisé le plugIn: RegistrationMagic.
+J'ai ensuite utilisé du Css pour le style mais également du JS pour permettre une meilleure fluidité lors du choix des formulaires.
 
 <br/>
 
 ## My Skill Set
-
-<table><tr><td valign="top" width="33%">
 
 ### Frontend
 

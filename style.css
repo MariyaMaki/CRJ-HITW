@@ -1,0 +1,45 @@
+/* ID du formulaire 3 sur WP [RM_Form id='8']*/
+
+#form_8_1 {
+  display: initial;
+}
+#rm_next_form_page_button_8_1 {
+  background-color: #ff2400;
+  border-radius: 10px;
+  border: none;
+}
+.social-bar {
+  display: none;
+}
+
+/* ID du formulaire 2 sur WP [RM_Form id='7']*/
+
+#form_7_1 {
+  display: none;
+}
+#rm_next_form_page_button_7_1 {
+  background-color: #ff2400;
+  border-radius: 10px;
+  border: none;
+}
+.social-bar {
+  display: none;
+}
+
+/* ID du formulaire 1 sur WP [RM_Form id='12']*/
+
+#form_12_1 {
+  display: none;
+}
+#rm_next_form_page_button_12_1 {
+  background-color: #ff2400;
+  border-radius: 10px;
+  border: none;
+}
+.social-bar {
+  display: none;
+}
+
+.rmheader {
+  display: none !important;
+}
